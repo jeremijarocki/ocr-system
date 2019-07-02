@@ -1,0 +1,2 @@
+INSERT INTO Graphic VALUES ( 1, 'CYTAT1', 'URL1' );
+INSERT INTO Graphic VALUES ( 2, 'CYTAT2', 'URL2' );
